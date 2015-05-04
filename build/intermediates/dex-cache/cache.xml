@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Victor Hernandez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-1c0d809c7907dc70352e44166f062c3af16edec8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\libs\armeabi.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="10fb74e4784b4fd712d150da8ddfab795d691d5e">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\armeabi-3daaf61d7075e26ce7b09bc4818a4da064d89033.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\libs\sd-sdk-facial-processing.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="18b675f7e2b5895521c475cded91414e2bfbe047">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\sd-sdk-facial-processing-07367f31b9e49ebf3f6bfa46567102a342ca4110.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\libs\armeabi\libfacialproc_jni.so"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6bd2aefc4cafc9a31402a4be2f53f585b916a5ac">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\libfacialproc_jni-41971409a25e5f81ff28b1d3891145bf53e67438.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\classes-50c9a4bcb8ee4eaf30e3030b94e11dff161e2e6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-af2ba9ca9d1a3d1f44fbe796b2654cdd9015b68a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\classes-21722e1a1d0ac9e5611dd8f0671f4fcef1d8b0ad.jar" />
+    </item>
+
+</items>

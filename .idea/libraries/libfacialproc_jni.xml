@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libfacialproc_jni">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/libs/armeabi/libfacialproc_jni.so" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
