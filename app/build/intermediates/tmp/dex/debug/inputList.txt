@@ -1,0 +1,8 @@
+C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\classes\debug
+C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-1c0d809c7907dc70352e44166f062c3af16edec8.jar
+C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\sd-sdk-facial-processing-07367f31b9e49ebf3f6bfa46567102a342ca4110.jar
+C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\armeabi-3daaf61d7075e26ce7b09bc4818a4da064d89033.jar
+C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\libfacialproc_jni-41971409a25e5f81ff28b1d3891145bf53e67438.jar
+C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-af2ba9ca9d1a3d1f44fbe796b2654cdd9015b68a.jar
+C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\classes-21722e1a1d0ac9e5611dd8f0671f4fcef1d8b0ad.jar
+C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialRecognitionSample\app\build\intermediates\pre-dexed\debug\classes-50c9a4bcb8ee4eaf30e3030b94e11dff161e2e6d.jar
