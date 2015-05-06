@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.qualcomm.snapdragon.sdk.recognition.sample;
+package recognition.sample;
 
 public final class R {
     public static final class anim {
@@ -1746,33 +1746,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.qualcomm.snapdragon.sdk.recognition.sample:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.qualcomm.snapdragon.sdk.recognition.sample:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.qualcomm.snapdragon.sdk.recognition.sample:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.qualcomm.snapdragon.sdk.recognition.sample:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.qualcomm.snapdragon.sdk.recognition.sample:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.qualcomm.snapdragon.sdk.recognition.sample:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.qualcomm.snapdragon.sdk.recognition.sample:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.qualcomm.snapdragon.sdk.recognition.sample:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.qualcomm.snapdragon.sdk.recognition.sample:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.qualcomm.snapdragon.sdk.recognition.sample:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.qualcomm.snapdragon.sdk.recognition.sample:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.qualcomm.snapdragon.sdk.recognition.sample:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.qualcomm.snapdragon.sdk.recognition.sample:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.qualcomm.snapdragon.sdk.recognition.sample:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.qualcomm.snapdragon.sdk.recognition.sample:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.qualcomm.snapdragon.sdk.recognition.sample:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.qualcomm.snapdragon.sdk.recognition.sample:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.qualcomm.snapdragon.sdk.recognition.sample:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.qualcomm.snapdragon.sdk.recognition.sample:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.qualcomm.snapdragon.sdk.recognition.sample:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.qualcomm.snapdragon.sdk.recognition.sample:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.qualcomm.snapdragon.sdk.recognition.sample:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.qualcomm.snapdragon.sdk.recognition.sample:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background recognition.sample:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit recognition.sample:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked recognition.sample:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd recognition.sample:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft recognition.sample:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight recognition.sample:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart recognition.sample:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout recognition.sample:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions recognition.sample:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider recognition.sample:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation recognition.sample:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height recognition.sample:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll recognition.sample:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator recognition.sample:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout recognition.sample:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon recognition.sample:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle recognition.sample:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding recognition.sample:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo recognition.sample:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode recognition.sample:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme recognition.sample:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding recognition.sample:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle recognition.sample:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle recognition.sample:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle recognition.sample:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title recognition.sample:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle recognition.sample:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -1812,17 +1812,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010071
         };
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#background}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:background
+          @attr name recognition.sample:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1830,11 +1830,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:backgroundSplit
+          @attr name recognition.sample:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1842,11 +1842,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:backgroundStacked
+          @attr name recognition.sample:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1858,11 +1858,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetEnd
+          @attr name recognition.sample:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1874,11 +1874,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetLeft
+          @attr name recognition.sample:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1890,11 +1890,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetRight
+          @attr name recognition.sample:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1906,21 +1906,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetStart
+          @attr name recognition.sample:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:customNavigationLayout
+          @attr name recognition.sample:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1938,21 +1938,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:displayOptions
+          @attr name recognition.sample:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#divider}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:divider
+          @attr name recognition.sample:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#elevation}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1964,11 +1964,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:elevation
+          @attr name recognition.sample:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#height}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1980,11 +1980,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:height
+          @attr name recognition.sample:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1994,51 +1994,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:hideOnContentScroll
+          @attr name recognition.sample:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:homeAsUpIndicator
+          @attr name recognition.sample:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:homeLayout
+          @attr name recognition.sample:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#icon}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:icon
+          @attr name recognition.sample:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:indeterminateProgressStyle
+          @attr name recognition.sample:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2050,21 +2050,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:itemPadding
+          @attr name recognition.sample:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#logo}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:logo
+          @attr name recognition.sample:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2078,21 +2078,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:navigationMode
+          @attr name recognition.sample:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:popupTheme
+          @attr name recognition.sample:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2104,21 +2104,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:progressBarPadding
+          @attr name recognition.sample:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:progressBarStyle
+          @attr name recognition.sample:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2128,21 +2128,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:subtitle
+          @attr name recognition.sample:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:subtitleTextStyle
+          @attr name recognition.sample:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#title}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2152,17 +2152,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:title
+          @attr name recognition.sample:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:titleTextStyle
+          @attr name recognition.sample:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2214,12 +2214,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.qualcomm.snapdragon.sdk.recognition.sample:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.qualcomm.snapdragon.sdk.recognition.sample:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.qualcomm.snapdragon.sdk.recognition.sample:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.qualcomm.snapdragon.sdk.recognition.sample:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.qualcomm.snapdragon.sdk.recognition.sample:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.qualcomm.snapdragon.sdk.recognition.sample:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background recognition.sample:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit recognition.sample:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout recognition.sample:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height recognition.sample:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle recognition.sample:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle recognition.sample:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2233,17 +2233,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#background}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:background
+          @attr name recognition.sample:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2251,21 +2251,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:backgroundSplit
+          @attr name recognition.sample:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:closeItemLayout
+          @attr name recognition.sample:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#height}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2277,27 +2277,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:height
+          @attr name recognition.sample:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:subtitleTextStyle
+          @attr name recognition.sample:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:titleTextStyle
+          @attr name recognition.sample:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2306,8 +2306,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.qualcomm.snapdragon.sdk.recognition.sample:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.qualcomm.snapdragon.sdk.recognition.sample:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable recognition.sample:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount recognition.sample:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2316,17 +2316,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:expandActivityOverflowButtonDrawable
+          @attr name recognition.sample:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2336,7 +2336,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:initialActivityCount
+          @attr name recognition.sample:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a CompatTextView.
@@ -2345,7 +2345,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CompatTextView_textAllCaps com.qualcomm.snapdragon.sdk.recognition.sample:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompatTextView_textAllCaps recognition.sample:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #CompatTextView_textAllCaps
          */
@@ -2353,14 +2353,14 @@ containing a value of this type.
             0x7f01001f
         };
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#textAllCaps}
           attribute's value can be found in the {@link #CompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:textAllCaps
+          @attr name recognition.sample:textAllCaps
         */
         public static final int CompatTextView_textAllCaps = 0;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -2369,14 +2369,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize com.qualcomm.snapdragon.sdk.recognition.sample:barSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.qualcomm.snapdragon.sdk.recognition.sample:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.qualcomm.snapdragon.sdk.recognition.sample:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.qualcomm.snapdragon.sdk.recognition.sample:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.qualcomm.snapdragon.sdk.recognition.sample:middleBarArrowSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.qualcomm.snapdragon.sdk.recognition.sample:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.qualcomm.snapdragon.sdk.recognition.sample:thickness}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.qualcomm.snapdragon.sdk.recognition.sample:topBottomBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barSize recognition.sample:barSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color recognition.sample:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize recognition.sample:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars recognition.sample:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize recognition.sample:middleBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars recognition.sample:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness recognition.sample:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize recognition.sample:topBottomBarArrowSize}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_barSize
            @see #DrawerArrowToggle_color
@@ -2392,7 +2392,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010024, 0x7f010025, 0x7f010026, 0x7f010027
         };
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#barSize}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#barSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2404,11 +2404,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:barSize
+          @attr name recognition.sample:barSize
         */
         public static final int DrawerArrowToggle_barSize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#color}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2419,11 +2419,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:color
+          @attr name recognition.sample:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2435,11 +2435,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:drawableSize
+          @attr name recognition.sample:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2451,11 +2451,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:gapBetweenBars
+          @attr name recognition.sample:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#middleBarArrowSize}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#middleBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2467,11 +2467,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:middleBarArrowSize
+          @attr name recognition.sample:middleBarArrowSize
         */
         public static final int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2481,11 +2481,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:spinBars
+          @attr name recognition.sample:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#thickness}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2497,11 +2497,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:thickness
+          @attr name recognition.sample:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#topBottomBarArrowSize}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#topBottomBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2513,7 +2513,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:topBottomBarArrowSize
+          @attr name recognition.sample:topBottomBarArrowSize
         */
         public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -2527,10 +2527,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.qualcomm.snapdragon.sdk.recognition.sample:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.qualcomm.snapdragon.sdk.recognition.sample:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.qualcomm.snapdragon.sdk.recognition.sample:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.qualcomm.snapdragon.sdk.recognition.sample:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider recognition.sample:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding recognition.sample:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild recognition.sample:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers recognition.sample:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -2578,17 +2578,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#divider}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:divider
+          @attr name recognition.sample:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2600,11 +2600,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:dividerPadding
+          @attr name recognition.sample:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2614,11 +2614,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:measureWithLargestChild
+          @attr name recognition.sample:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2633,7 +2633,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:showDividers
+          @attr name recognition.sample:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -2772,9 +2772,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.qualcomm.snapdragon.sdk.recognition.sample:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.qualcomm.snapdragon.sdk.recognition.sample:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.qualcomm.snapdragon.sdk.recognition.sample:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout recognition.sample:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass recognition.sample:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass recognition.sample:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -2788,7 +2788,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.qualcomm.snapdragon.sdk.recognition.sample:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction recognition.sample:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -2816,17 +2816,17 @@ containing a value of this type.
             0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionLayout
+          @attr name recognition.sample:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2836,11 +2836,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionProviderClass
+          @attr name recognition.sample:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2850,7 +2850,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionViewClass
+          @attr name recognition.sample:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -2932,7 +2932,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2948,7 +2948,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:showAsAction
+          @attr name recognition.sample:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -2964,7 +2964,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.qualcomm.snapdragon.sdk.recognition.sample:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing recognition.sample:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -3022,7 +3022,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -3032,7 +3032,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:preserveIconSpacing
+          @attr name recognition.sample:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -3042,7 +3042,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.qualcomm.snapdragon.sdk.recognition.sample:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor recognition.sample:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -3057,7 +3057,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -3067,7 +3067,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:overlapAnchor
+          @attr name recognition.sample:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -3076,7 +3076,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.qualcomm.snapdragon.sdk.recognition.sample:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor recognition.sample:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -3084,7 +3084,7 @@ containing a value of this type.
             0x7f010031
         };
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -3094,7 +3094,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:state_above_anchor
+          @attr name recognition.sample:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -3107,17 +3107,17 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.qualcomm.snapdragon.sdk.recognition.sample:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.qualcomm.snapdragon.sdk.recognition.sample:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.qualcomm.snapdragon.sdk.recognition.sample:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.qualcomm.snapdragon.sdk.recognition.sample:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.qualcomm.snapdragon.sdk.recognition.sample:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.qualcomm.snapdragon.sdk.recognition.sample:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.qualcomm.snapdragon.sdk.recognition.sample:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.qualcomm.snapdragon.sdk.recognition.sample:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.qualcomm.snapdragon.sdk.recognition.sample:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.qualcomm.snapdragon.sdk.recognition.sample:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.qualcomm.snapdragon.sdk.recognition.sample:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon recognition.sample:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon recognition.sample:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon recognition.sample:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault recognition.sample:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout recognition.sample:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground recognition.sample:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint recognition.sample:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon recognition.sample:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground recognition.sample:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout recognition.sample:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon recognition.sample:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -3166,37 +3166,37 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:closeIcon
+          @attr name recognition.sample:closeIcon
         */
         public static final int SearchView_closeIcon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:commitIcon
+          @attr name recognition.sample:commitIcon
         */
         public static final int SearchView_commitIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:goIcon
+          @attr name recognition.sample:goIcon
         */
         public static final int SearchView_goIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3206,31 +3206,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:iconifiedByDefault
+          @attr name recognition.sample:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#layout}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:layout
+          @attr name recognition.sample:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:queryBackground
+          @attr name recognition.sample:queryBackground
         */
         public static final int SearchView_queryBackground = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3240,47 +3240,47 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:queryHint
+          @attr name recognition.sample:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:searchIcon
+          @attr name recognition.sample:searchIcon
         */
         public static final int SearchView_searchIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:submitBackground
+          @attr name recognition.sample:submitBackground
         */
         public static final int SearchView_submitBackground = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:suggestionRowLayout
+          @attr name recognition.sample:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 12;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:voiceIcon
+          @attr name recognition.sample:voiceIcon
         */
         public static final int SearchView_voiceIcon = 10;
         /** Attributes that can be used with a Spinner.
@@ -3296,10 +3296,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.qualcomm.snapdragon.sdk.recognition.sample:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView com.qualcomm.snapdragon.sdk.recognition.sample:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt com.qualcomm.snapdragon.sdk.recognition.sample:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode com.qualcomm.snapdragon.sdk.recognition.sample:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled recognition.sample:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView recognition.sample:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt recognition.sample:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode recognition.sample:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -3361,7 +3361,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_popupBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3371,31 +3371,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:disableChildrenWhenDisabled
+          @attr name recognition.sample:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:popupPromptView
+          @attr name recognition.sample:popupPromptView
         */
         public static final int Spinner_popupPromptView = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#prompt}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:prompt
+          @attr name recognition.sample:prompt
         */
         public static final int Spinner_prompt = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3408,7 +3408,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:spinnerMode
+          @attr name recognition.sample:spinnerMode
         */
         public static final int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
@@ -3420,13 +3420,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.qualcomm.snapdragon.sdk.recognition.sample:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.qualcomm.snapdragon.sdk.recognition.sample:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.qualcomm.snapdragon.sdk.recognition.sample:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.qualcomm.snapdragon.sdk.recognition.sample:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.qualcomm.snapdragon.sdk.recognition.sample:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.qualcomm.snapdragon.sdk.recognition.sample:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.qualcomm.snapdragon.sdk.recognition.sample:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText recognition.sample:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack recognition.sample:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth recognition.sample:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding recognition.sample:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance recognition.sample:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding recognition.sample:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track recognition.sample:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -3463,7 +3463,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#showText}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3473,11 +3473,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:showText
+          @attr name recognition.sample:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3487,11 +3487,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:splitTrack
+          @attr name recognition.sample:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3503,11 +3503,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:switchMinWidth
+          @attr name recognition.sample:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3519,21 +3519,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:switchPadding
+          @attr name recognition.sample:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:switchTextAppearance
+          @attr name recognition.sample:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3545,17 +3545,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:thumbTextPadding
+          @attr name recognition.sample:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#track}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:track
+          @attr name recognition.sample:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a Theme.
@@ -3564,89 +3564,89 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.qualcomm.snapdragon.sdk.recognition.sample:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.qualcomm.snapdragon.sdk.recognition.sample:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.qualcomm.snapdragon.sdk.recognition.sample:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.qualcomm.snapdragon.sdk.recognition.sample:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.qualcomm.snapdragon.sdk.recognition.sample:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.qualcomm.snapdragon.sdk.recognition.sample:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.qualcomm.snapdragon.sdk.recognition.sample:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.qualcomm.snapdragon.sdk.recognition.sample:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.qualcomm.snapdragon.sdk.recognition.sample:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.qualcomm.snapdragon.sdk.recognition.sample:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.qualcomm.snapdragon.sdk.recognition.sample:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.qualcomm.snapdragon.sdk.recognition.sample:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.qualcomm.snapdragon.sdk.recognition.sample:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.qualcomm.snapdragon.sdk.recognition.sample:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.qualcomm.snapdragon.sdk.recognition.sample:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.qualcomm.snapdragon.sdk.recognition.sample:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.qualcomm.snapdragon.sdk.recognition.sample:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.qualcomm.snapdragon.sdk.recognition.sample:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.qualcomm.snapdragon.sdk.recognition.sample:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.qualcomm.snapdragon.sdk.recognition.sample:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider recognition.sample:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground recognition.sample:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme recognition.sample:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize recognition.sample:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle recognition.sample:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle recognition.sample:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle recognition.sample:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle recognition.sample:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle recognition.sample:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme recognition.sample:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme recognition.sample:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle recognition.sample:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle recognition.sample:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance recognition.sample:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor recognition.sample:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground recognition.sample:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle recognition.sample:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable recognition.sample:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable recognition.sample:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable recognition.sample:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable recognition.sample:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable recognition.sample:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle recognition.sample:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable recognition.sample:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable recognition.sample:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground recognition.sample:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle recognition.sample:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable recognition.sample:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle recognition.sample:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle recognition.sample:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle recognition.sample:activityChooserViewStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.qualcomm.snapdragon.sdk.recognition.sample:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.qualcomm.snapdragon.sdk.recognition.sample:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.qualcomm.snapdragon.sdk.recognition.sample:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.qualcomm.snapdragon.sdk.recognition.sample:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.qualcomm.snapdragon.sdk.recognition.sample:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.qualcomm.snapdragon.sdk.recognition.sample:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.qualcomm.snapdragon.sdk.recognition.sample:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.qualcomm.snapdragon.sdk.recognition.sample:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.qualcomm.snapdragon.sdk.recognition.sample:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.qualcomm.snapdragon.sdk.recognition.sample:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.qualcomm.snapdragon.sdk.recognition.sample:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.qualcomm.snapdragon.sdk.recognition.sample:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.qualcomm.snapdragon.sdk.recognition.sample:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.qualcomm.snapdragon.sdk.recognition.sample:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.qualcomm.snapdragon.sdk.recognition.sample:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.qualcomm.snapdragon.sdk.recognition.sample:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.qualcomm.snapdragon.sdk.recognition.sample:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.qualcomm.snapdragon.sdk.recognition.sample:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.qualcomm.snapdragon.sdk.recognition.sample:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.qualcomm.snapdragon.sdk.recognition.sample:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.qualcomm.snapdragon.sdk.recognition.sample:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.qualcomm.snapdragon.sdk.recognition.sample:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.qualcomm.snapdragon.sdk.recognition.sample:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.qualcomm.snapdragon.sdk.recognition.sample:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.qualcomm.snapdragon.sdk.recognition.sample:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.qualcomm.snapdragon.sdk.recognition.sample:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.qualcomm.snapdragon.sdk.recognition.sample:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.qualcomm.snapdragon.sdk.recognition.sample:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.qualcomm.snapdragon.sdk.recognition.sample:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.qualcomm.snapdragon.sdk.recognition.sample:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.qualcomm.snapdragon.sdk.recognition.sample:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.qualcomm.snapdragon.sdk.recognition.sample:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.qualcomm.snapdragon.sdk.recognition.sample:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.qualcomm.snapdragon.sdk.recognition.sample:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.qualcomm.snapdragon.sdk.recognition.sample:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.qualcomm.snapdragon.sdk.recognition.sample:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.qualcomm.snapdragon.sdk.recognition.sample:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.qualcomm.snapdragon.sdk.recognition.sample:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.qualcomm.snapdragon.sdk.recognition.sample:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.qualcomm.snapdragon.sdk.recognition.sample:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle recognition.sample:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle recognition.sample:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent recognition.sample:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal recognition.sample:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated recognition.sample:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight recognition.sample:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal recognition.sample:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary recognition.sample:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark recognition.sample:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal recognition.sample:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal recognition.sample:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical recognition.sample:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle recognition.sample:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight recognition.sample:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground recognition.sample:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor recognition.sample:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator recognition.sample:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator recognition.sample:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle recognition.sample:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight recognition.sample:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge recognition.sample:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall recognition.sample:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft recognition.sample:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight recognition.sample:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground recognition.sample:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme recognition.sample:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth recognition.sample:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle recognition.sample:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle recognition.sample:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle recognition.sample:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground recognition.sample:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless recognition.sample:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle recognition.sample:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle recognition.sample:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle recognition.sample:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu recognition.sample:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem recognition.sample:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall recognition.sample:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle recognition.sample:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle recognition.sample:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu recognition.sample:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl recognition.sample:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle recognition.sample:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle recognition.sample:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar recognition.sample:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay recognition.sample:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay recognition.sample:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor recognition.sample:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor recognition.sample:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor recognition.sample:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor recognition.sample:windowFixedWidthMinor}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -3756,37 +3756,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010097, 0x7f010098, 0x7f010099
         };
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarDivider
+          @attr name recognition.sample:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 19;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarItemBackground
+          @attr name recognition.sample:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 20;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarPopupTheme
+          @attr name recognition.sample:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -3806,111 +3806,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarSize
+          @attr name recognition.sample:actionBarSize
         */
         public static final int Theme_actionBarSize = 18;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarSplitStyle
+          @attr name recognition.sample:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarStyle
+          @attr name recognition.sample:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarTabBarStyle
+          @attr name recognition.sample:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 9;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarTabStyle
+          @attr name recognition.sample:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarTabTextStyle
+          @attr name recognition.sample:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarTheme
+          @attr name recognition.sample:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionBarWidgetTheme
+          @attr name recognition.sample:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionButtonStyle
+          @attr name recognition.sample:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 43;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionDropDownStyle
+          @attr name recognition.sample:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 38;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionMenuTextAppearance
+          @attr name recognition.sample:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 21;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -3918,167 +3918,167 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionMenuTextColor
+          @attr name recognition.sample:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 22;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeBackground
+          @attr name recognition.sample:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 25;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeCloseButtonStyle
+          @attr name recognition.sample:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 24;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeCloseDrawable
+          @attr name recognition.sample:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 27;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeCopyDrawable
+          @attr name recognition.sample:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 29;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeCutDrawable
+          @attr name recognition.sample:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 28;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeFindDrawable
+          @attr name recognition.sample:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModePasteDrawable
+          @attr name recognition.sample:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 30;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModePopupWindowStyle
+          @attr name recognition.sample:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 35;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeSelectAllDrawable
+          @attr name recognition.sample:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeShareDrawable
+          @attr name recognition.sample:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeSplitBackground
+          @attr name recognition.sample:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 26;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeStyle
+          @attr name recognition.sample:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 23;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionModeWebSearchDrawable
+          @attr name recognition.sample:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionOverflowButtonStyle
+          @attr name recognition.sample:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:actionOverflowMenuStyle
+          @attr name recognition.sample:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:activityChooserViewStyle
+          @attr name recognition.sample:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 50;
         /**
@@ -4088,27 +4088,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:buttonBarButtonStyle
+          @attr name recognition.sample:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:buttonBarStyle
+          @attr name recognition.sample:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 44;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4119,11 +4119,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:colorAccent
+          @attr name recognition.sample:colorAccent
         */
         public static final int Theme_colorAccent = 77;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4134,11 +4134,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:colorButtonNormal
+          @attr name recognition.sample:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 81;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4149,11 +4149,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:colorControlActivated
+          @attr name recognition.sample:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 79;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4164,11 +4164,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:colorControlHighlight
+          @attr name recognition.sample:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 80;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4179,11 +4179,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:colorControlNormal
+          @attr name recognition.sample:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 78;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4194,11 +4194,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:colorPrimary
+          @attr name recognition.sample:colorPrimary
         */
         public static final int Theme_colorPrimary = 75;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4209,11 +4209,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:colorPrimaryDark
+          @attr name recognition.sample:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 76;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4224,41 +4224,41 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:colorSwitchThumbNormal
+          @attr name recognition.sample:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 82;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:dividerHorizontal
+          @attr name recognition.sample:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 49;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:dividerVertical
+          @attr name recognition.sample:dividerVertical
         */
         public static final int Theme_dividerVertical = 48;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:dropDownListViewStyle
+          @attr name recognition.sample:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4270,21 +4270,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:dropdownListPreferredItemHeight
+          @attr name recognition.sample:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 39;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:editTextBackground
+          @attr name recognition.sample:editTextBackground
         */
         public static final int Theme_editTextBackground = 56;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4292,41 +4292,41 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:editTextColor
+          @attr name recognition.sample:editTextColor
         */
         public static final int Theme_editTextColor = 55;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:homeAsUpIndicator
+          @attr name recognition.sample:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 42;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:listChoiceBackgroundIndicator
+          @attr name recognition.sample:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 74;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:listPopupWindowStyle
+          @attr name recognition.sample:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4338,11 +4338,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemHeight
+          @attr name recognition.sample:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 62;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4354,11 +4354,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemHeightLarge
+          @attr name recognition.sample:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 64;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4370,11 +4370,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemHeightSmall
+          @attr name recognition.sample:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 63;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4386,11 +4386,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemPaddingLeft
+          @attr name recognition.sample:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 65;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4402,31 +4402,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:listPreferredItemPaddingRight
+          @attr name recognition.sample:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 66;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:panelBackground
+          @attr name recognition.sample:panelBackground
         */
         public static final int Theme_panelBackground = 71;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:panelMenuListTheme
+          @attr name recognition.sample:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 73;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4438,151 +4438,151 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:panelMenuListWidth
+          @attr name recognition.sample:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 72;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:popupMenuStyle
+          @attr name recognition.sample:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 53;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:popupWindowStyle
+          @attr name recognition.sample:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:searchViewStyle
+          @attr name recognition.sample:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:selectableItemBackground
+          @attr name recognition.sample:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 46;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:selectableItemBackgroundBorderless
+          @attr name recognition.sample:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 47;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:spinnerDropDownItemStyle
+          @attr name recognition.sample:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 41;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:spinnerStyle
+          @attr name recognition.sample:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 40;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:switchStyle
+          @attr name recognition.sample:switchStyle
         */
         public static final int Theme_switchStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceLargePopupMenu
+          @attr name recognition.sample:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 36;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceListItem
+          @attr name recognition.sample:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 69;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceListItemSmall
+          @attr name recognition.sample:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceSearchResultSubtitle
+          @attr name recognition.sample:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceSearchResultTitle
+          @attr name recognition.sample:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:textAppearanceSmallPopupMenu
+          @attr name recognition.sample:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 37;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4590,31 +4590,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:textColorSearchUrl
+          @attr name recognition.sample:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 60;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:toolbarNavigationButtonStyle
+          @attr name recognition.sample:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:toolbarStyle
+          @attr name recognition.sample:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4624,11 +4624,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:windowActionBar
+          @attr name recognition.sample:windowActionBar
         */
         public static final int Theme_windowActionBar = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4638,11 +4638,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:windowActionBarOverlay
+          @attr name recognition.sample:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4652,11 +4652,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:windowActionModeOverlay
+          @attr name recognition.sample:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4671,11 +4671,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:windowFixedHeightMajor
+          @attr name recognition.sample:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4690,11 +4690,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:windowFixedHeightMinor
+          @attr name recognition.sample:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4709,11 +4709,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:windowFixedWidthMajor
+          @attr name recognition.sample:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4728,7 +4728,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:windowFixedWidthMinor
+          @attr name recognition.sample:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 6;
         /** Attributes that can be used with a Toolbar.
@@ -4739,26 +4739,26 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.qualcomm.snapdragon.sdk.recognition.sample:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.qualcomm.snapdragon.sdk.recognition.sample:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.qualcomm.snapdragon.sdk.recognition.sample:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.qualcomm.snapdragon.sdk.recognition.sample:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.qualcomm.snapdragon.sdk.recognition.sample:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.qualcomm.snapdragon.sdk.recognition.sample:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.qualcomm.snapdragon.sdk.recognition.sample:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.qualcomm.snapdragon.sdk.recognition.sample:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_theme com.qualcomm.snapdragon.sdk.recognition.sample:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.qualcomm.snapdragon.sdk.recognition.sample:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.qualcomm.snapdragon.sdk.recognition.sample:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.qualcomm.snapdragon.sdk.recognition.sample:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.qualcomm.snapdragon.sdk.recognition.sample:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.qualcomm.snapdragon.sdk.recognition.sample:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.qualcomm.snapdragon.sdk.recognition.sample:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.qualcomm.snapdragon.sdk.recognition.sample:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription recognition.sample:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon recognition.sample:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd recognition.sample:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft recognition.sample:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight recognition.sample:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart recognition.sample:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight recognition.sample:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription recognition.sample:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon recognition.sample:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme recognition.sample:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle recognition.sample:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance recognition.sample:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_theme recognition.sample:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title recognition.sample:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom recognition.sample:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd recognition.sample:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart recognition.sample:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop recognition.sample:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins recognition.sample:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance recognition.sample:titleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -4804,7 +4804,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4814,21 +4814,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:collapseContentDescription
+          @attr name recognition.sample:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:collapseIcon
+          @attr name recognition.sample:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4840,11 +4840,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetEnd
+          @attr name recognition.sample:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4856,11 +4856,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetLeft
+          @attr name recognition.sample:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4872,11 +4872,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetRight
+          @attr name recognition.sample:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4888,11 +4888,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:contentInsetStart
+          @attr name recognition.sample:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4904,11 +4904,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:maxButtonHeight
+          @attr name recognition.sample:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 16;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4918,31 +4918,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:navigationContentDescription
+          @attr name recognition.sample:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:navigationIcon
+          @attr name recognition.sample:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:popupTheme
+          @attr name recognition.sample:popupTheme
         */
         public static final int Toolbar_popupTheme = 8;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4952,31 +4952,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:subtitle
+          @attr name recognition.sample:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:subtitleTextAppearance
+          @attr name recognition.sample:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#theme}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#theme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:theme
+          @attr name recognition.sample:theme
         */
         public static final int Toolbar_theme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#title}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4986,11 +4986,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:title
+          @attr name recognition.sample:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5002,11 +5002,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:titleMarginBottom
+          @attr name recognition.sample:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 15;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5018,11 +5018,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:titleMarginEnd
+          @attr name recognition.sample:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5034,11 +5034,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:titleMarginStart
+          @attr name recognition.sample:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 12;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5050,11 +5050,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:titleMarginTop
+          @attr name recognition.sample:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 14;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5066,17 +5066,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:titleMargins
+          @attr name recognition.sample:titleMargins
         */
         public static final int Toolbar_titleMargins = 11;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:titleTextAppearance
+          @attr name recognition.sample:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
@@ -5086,8 +5086,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.qualcomm.snapdragon.sdk.recognition.sample:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.qualcomm.snapdragon.sdk.recognition.sample:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd recognition.sample:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart recognition.sample:paddingStart}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_paddingEnd
@@ -5103,7 +5103,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int View_android_focusable = 0;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -5115,11 +5115,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:paddingEnd
+          @attr name recognition.sample:paddingEnd
         */
         public static final int View_paddingEnd = 2;
         /**
-          <p>This symbol is the offset where the {@link com.qualcomm.snapdragon.sdk.recognition.sample.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link recognition.sample.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -5131,7 +5131,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.qualcomm.snapdragon.sdk.recognition.sample:paddingStart
+          @attr name recognition.sample:paddingStart
         */
         public static final int View_paddingStart = 1;
         /** Attributes that can be used with a ViewStubCompat.

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.1"
 
     defaultConfig {
-        applicationId "com.qualcomm.snapdragon.sdk.recognition.sample"
+        applicationId "recognition.sample"
         minSdkVersion 9
         targetSdkVersion 17
     }
