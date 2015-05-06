@@ -1,4 +1,4 @@
-package bluetootharduino;
+package com.qualcomm.snapdragon.sdk.recognition.sample;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -14,7 +14,6 @@ import android.view.MenuItem.OnMenuItemClickListener;
 import android.view.View;
 import android.widget.*;
 import android.widget.AdapterView.OnItemClickListener;
-import com.qualcomm.snapdragon.sdk.recognition.sample.R;
 
 import java.util.ArrayList;
 import java.util.List;

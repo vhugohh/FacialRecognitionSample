@@ -1,4 +1,4 @@
-package bluetootharduino;
+package com.qualcomm.snapdragon.sdk.recognition.sample;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -16,8 +16,6 @@ import android.widget.CompoundButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.Toast;
 import android.widget.ToggleButton;
-import com.qualcomm.snapdragon.sdk.recognition.sample.FacialRecognitionActivity;
-import com.qualcomm.snapdragon.sdk.recognition.sample.R;
 
 import java.io.IOException;
 import java.io.OutputStream;
@@ -269,6 +267,15 @@ public class BT_Controls extends Activity {
                     } else {
                         btConnectionThread.write(("p10").getBytes());
                     }
+
+                    String aString;
+                    double aDouble;
+                    synchronized(SharedData.globalInstance) {
+                        aString = SharedData.globalInstance.aString;
+                        aDouble = SharedData.globalInstance.aDouble;
+                    }
+                    Log.e("MyTimer:",aString);
+                    Log.e("MyTimer:",Double.toString(aDouble));
                 }});
         }
 

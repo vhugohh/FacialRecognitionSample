@@ -7,36 +7,20 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Server:"
-        android:id="@+id/textView"/>
+        android:text="Server: "
+        android:id="@+id/textView1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="(IP)"
+        android:text="Port: "
         android:id="@+id/textView2"/>
 
     <TextView
+        android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Port:"
-        android:id="@+id/textView3"/>
-
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:inputType="number"
-        android:ems="10"
-        android:id="@+id/editText1"
-        android:text="5000"/>
-
-    <ToggleButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="New ToggleButton"
-        android:id="@+id/toggleButton"
-        android:layout_gravity="center_horizontal"
-        android:textOff="ACTIVATE SERVER"
-        android:textOn="DEACTIVATE SERVER"/>
+        android:text="" >
+    </TextView>
 
 </LinearLayout>

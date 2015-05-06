@@ -22,6 +22,7 @@
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <uses-feature android:name="android.hardware.camera" />
 
@@ -62,11 +63,11 @@
             android:screenOrientation="portrait" >
         </activity>
 
-        <activity android:name="bluetootharduino.BT_Controls" android:screenOrientation="portrait"/>
-        <activity android:name="bluetootharduino.BT_Main"
+        <activity android:name=".BT_Controls" android:screenOrientation="portrait"/>
+        <activity android:name=".BT_Main"
             android:label="@string/app_name" android:screenOrientation="portrait"/>
 
-        <activity android:name="networkserver.NetSettings" android:screenOrientation="portrait"/>
+        <activity android:name=".NetSettings" android:screenOrientation="portrait"/>
 
     </application>
 

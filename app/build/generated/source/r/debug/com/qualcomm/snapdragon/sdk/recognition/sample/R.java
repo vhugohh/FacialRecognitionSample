@@ -1339,7 +1339,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f08002e;
         public static final int action_mode_bar_stub=0x7f08002d;
         public static final int action_mode_close_button=0x7f080020;
-        public static final int action_settings=0x7f08005d;
+        public static final int action_settings=0x7f08005b;
         public static final int activity_chooser_view_content=0x7f080021;
         public static final int always=0x7f080016;
         public static final int approve=0x7f08004c;
@@ -1359,7 +1359,6 @@ containing a value of this type.
         public static final int disableHome=0x7f08000c;
         public static final int display_pic=0x7f080044;
         public static final int dropdown=0x7f08001c;
-        public static final int editText1=0x7f08005a;
         public static final int edit_query=0x7f080033;
         public static final int end=0x7f080014;
         public static final int expand_activities_button=0x7f080022;
@@ -1410,11 +1409,10 @@ containing a value of this type.
         public static final int switch_camera=0x7f080046;
         public static final int tabMode=0x7f08000b;
         public static final int textView=0x7f080057;
-        public static final int textView1=0x7f08005c;
-        public static final int textView2=0x7f080058;
-        public static final int textView3=0x7f080059;
+        public static final int textView1=0x7f080058;
+        public static final int textView2=0x7f080059;
+        public static final int textView3=0x7f08005a;
         public static final int title=0x7f080027;
-        public static final int toggleButton=0x7f08005b;
         public static final int toggleLED1=0x7f080051;
         public static final int up=0x7f080008;
         public static final int useLogo=0x7f080012;

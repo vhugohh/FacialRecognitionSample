@@ -12,7 +12,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-import bluetootharduino.BT_Main;
 import com.qualcomm.snapdragon.sdk.face.FacialProcessing;
 import com.qualcomm.snapdragon.sdk.face.FacialProcessing.FEATURE_LIST;
 import com.qualcomm.snapdragon.sdk.face.FacialProcessing.FP_MODES;
@@ -30,7 +29,6 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.Toast;
-import networkserver.NetSettings;
 
 public class FacialRecognitionActivity extends Activity {
 	
@@ -341,5 +339,10 @@ public class FacialRecognitionActivity extends Activity {
 		editor.putString("albumArray", Arrays.toString(albumBuffer));
 		editor.commit();
 	}
-	
+}
+
+class SharedData {
+    public String aString;
+    public double aDouble;
+    public static SharedData globalInstance = new SharedData();
 }
